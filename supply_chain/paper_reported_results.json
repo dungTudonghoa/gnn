@@ -1,0 +1,138 @@
+{
+  "source": "User-supplied PDF arXiv:2608.10245v1, page 5, Table IV",
+  "status": "TRANSCRIBED_AUTHOR_RESULTS_NOT_REPRODUCED",
+  "table_iv": [
+    {
+      "instance": 13,
+      "formulation": "deterministic",
+      "reference": 2531549,
+      "reference_status": "exact",
+      "sa_mean_sd": [
+        3036226,
+        45741
+      ],
+      "ga_mean_sd": [
+        2982500,
+        25065
+      ],
+      "gnn_ga_mean_sd": [
+        2561756,
+        3871
+      ],
+      "cost_mean_sd": [
+        2572443,
+        0
+      ]
+    },
+    {
+      "instance": 13,
+      "formulation": "regret",
+      "reference": 0,
+      "reference_status": "exact",
+      "sa_mean_sd": [
+        556259,
+        46720
+      ],
+      "ga_mean_sd": [
+        541135,
+        30094
+      ],
+      "gnn_ga_mean_sd": [
+        36213,
+        4650
+      ],
+      "cost_mean_sd": [
+        49005,
+        0
+      ]
+    },
+    {
+      "instance": 14,
+      "formulation": "deterministic",
+      "reference": 3785785,
+      "reference_status": "best_known",
+      "sa_mean_sd": [
+        4608176,
+        62110
+      ],
+      "ga_mean_sd": [
+        4508967,
+        38477
+      ],
+      "gnn_ga_mean_sd": [
+        3861512,
+        11555
+      ],
+      "cost_mean_sd": [
+        3828878,
+        0
+      ]
+    },
+    {
+      "instance": 14,
+      "formulation": "regret",
+      "reference": 0,
+      "reference_status": "incumbent_relative_surrogate",
+      "sa_mean_sd": [
+        982293,
+        74547
+      ],
+      "ga_mean_sd": [
+        867983,
+        46163
+      ],
+      "gnn_ga_mean_sd": [
+        91123,
+        14131
+      ],
+      "cost_mean_sd": [
+        51854,
+        0
+      ]
+    },
+    {
+      "instance": 15,
+      "formulation": "deterministic",
+      "reference": 8000214,
+      "reference_status": "best_known",
+      "sa_mean_sd": [
+        9877367,
+        157119
+      ],
+      "ga_mean_sd": [
+        9646684,
+        77708
+      ],
+      "gnn_ga_mean_sd": [
+        8359145,
+        49668
+      ],
+      "cost_mean_sd": [
+        8717492,
+        0
+      ]
+    },
+    {
+      "instance": 15,
+      "formulation": "regret",
+      "reference": 0,
+      "reference_status": "incumbent_relative_surrogate",
+      "sa_mean_sd": [
+        2239419,
+        189679
+      ],
+      "ga_mean_sd": [
+        1976882,
+        94356
+      ],
+      "gnn_ga_mean_sd": [
+        437636,
+        68336
+      ],
+      "cost_mean_sd": [
+        960530,
+        0
+      ]
+    }
+  ]
+}

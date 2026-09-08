@@ -1,3 +1,10 @@
+# Thực hành Graph Neural Networks
+
+- **[GNN–GA–LP cho chuỗi cung ứng — arXiv:2608.10245](supply_chain/README.md)**: mã triển khai độc lập, notebook, model đã train và 760 lượt thí nghiệm trên dữ liệu dựng lại. [Kết quả](supply_chain/results/reconstruction/REPORT.md) · [Mức độ tái hiện](supply_chain/REPRODUCIBILITY.md).
+- **GCN–Cora theo Viblo**: hướng dẫn bên dưới, [notebook](notebooks/cora_walkthrough.ipynb).
+
+---
+
 # Thực hành GNN: GCN phân loại bài báo Cora
 
 Triển khai phục vụ học tập theo [bài giới thiệu GNN trên Viblo](https://viblo.asia/p/gioi-thieu-ve-graph-neural-networks-gnns-yZjJYG7MVOE). Code được viết lại thành chương trình chạy độc lập và notebook có giải thích tiếng Việt.

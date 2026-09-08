@@ -1,0 +1,118 @@
+{
+  "reconstructed-test-01": {
+    "scenario_optima": [
+      360236.4212986387,
+      443583.3723433449,
+      526553.8413000808
+    ],
+    "nominal": 443583.3723433449,
+    "regret": 250.19213022840177,
+    "nominal_assignment": [
+      0,
+      1,
+      1,
+      1,
+      2,
+      0,
+      0,
+      0,
+      2,
+      1
+    ],
+    "regret_assignment": [
+      0,
+      1,
+      1,
+      1,
+      2,
+      0,
+      0,
+      0,
+      2,
+      1
+    ],
+    "status": "solver_certified_optimal"
+  },
+  "reconstructed-test-02": {
+    "scenario_optima": [
+      411153.0609002726,
+      505042.4422516367,
+      598748.5930737809
+    ],
+    "nominal": 505042.4422516367,
+    "regret": 97.31611365511344,
+    "nominal_assignment": [
+      0,
+      1,
+      3,
+      3,
+      2,
+      0,
+      0,
+      1,
+      3,
+      3,
+      2,
+      1
+    ],
+    "regret_assignment": [
+      0,
+      1,
+      3,
+      3,
+      2,
+      0,
+      0,
+      1,
+      3,
+      3,
+      2,
+      1
+    ],
+    "status": "solver_certified_optimal"
+  },
+  "reconstructed-test-03": {
+    "scenario_optima": [
+      510900.4456959386,
+      627488.6974115492,
+      743587.121495059
+    ],
+    "nominal": 627488.6974115492,
+    "regret": 282.29833574585655,
+    "nominal_assignment": [
+      0,
+      4,
+      0,
+      0,
+      3,
+      4,
+      1,
+      2,
+      4,
+      2,
+      0,
+      4,
+      2,
+      1,
+      1
+    ],
+    "regret_assignment": [
+      0,
+      4,
+      0,
+      0,
+      3,
+      4,
+      1,
+      2,
+      4,
+      2,
+      0,
+      4,
+      2,
+      1,
+      1
+    ],
+    "status": "solver_certified_optimal"
+  }
+}

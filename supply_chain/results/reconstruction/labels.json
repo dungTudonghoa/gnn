@@ -1,0 +1,116 @@
+{
+  "reconstructed-train-01": [
+    0,
+    0,
+    0
+  ],
+  "reconstructed-train-02": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "reconstructed-train-03": [
+    1,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "reconstructed-train-04": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0
+  ],
+  "reconstructed-train-05": [
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+  ],
+  "reconstructed-train-06": [
+    1,
+    0,
+    0,
+    1,
+    2,
+    0,
+    2
+  ],
+  "reconstructed-train-07": [
+    0,
+    2,
+    2,
+    0,
+    1,
+    2,
+    1,
+    0
+  ],
+  "reconstructed-train-08": [
+    0,
+    3,
+    0,
+    1,
+    2,
+    1,
+    2,
+    3
+  ],
+  "reconstructed-train-09": [
+    1,
+    2,
+    3,
+    3,
+    0,
+    0,
+    3,
+    0,
+    1
+  ],
+  "reconstructed-validation-01": [
+    2,
+    1,
+    2,
+    1,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "reconstructed-validation-02": [
+    0,
+    2,
+    3,
+    3,
+    2,
+    0,
+    1,
+    0,
+    2,
+    1
+  ],
+  "reconstructed-validation-03": [
+    1,
+    1,
+    3,
+    1,
+    3,
+    0,
+    3,
+    3,
+    0,
+    2,
+    2
+  ]
+}

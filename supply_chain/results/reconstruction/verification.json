@@ -1,0 +1,31 @@
+{
+  "runs_resolved": 760,
+  "max_objective_difference": 0.0,
+  "max_physical_residual": 2.2737367544323206e-13,
+  "enumeration_checks": [
+    {
+      "fixture": "reconstructed-train-03",
+      "formulation": "deterministic",
+      "assignments": 64,
+      "absolute_difference": 2.9103830456733704e-11
+    },
+    {
+      "fixture": "reconstructed-train-03",
+      "formulation": "regret",
+      "assignments": 64,
+      "absolute_difference": 1.1368683772161603e-11
+    },
+    {
+      "fixture": "reconstructed-train-04",
+      "formulation": "deterministic",
+      "assignments": 256,
+      "absolute_difference": 0.0
+    },
+    {
+      "fixture": "reconstructed-train-04",
+      "formulation": "regret",
+      "assignments": 256,
+      "absolute_difference": 3.2311930908690556e-11
+    }
+  ]
+}
